@@ -44,7 +44,7 @@ Run these commands in PowerShell:
 
 ```powershell
 python -m venv venv_final
-.env_final\Scripts\Activate.ps1
+.env_final\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
