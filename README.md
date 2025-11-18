@@ -10,7 +10,7 @@ This repository contains the full implementation for:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 assignment/
@@ -38,7 +38,7 @@ assignment/
 
 ---
 
-## 🧠 1. Virtual Environment Setup
+##  1. Virtual Environment Setup
 
 Run these commands in PowerShell:
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 2. Running the Scripts
+##  2. Running the Scripts
 
 ### **A) Generate Embeddings**
 ```powershell
@@ -79,13 +79,13 @@ python evaluation.py
 
 ---
 
-## 📥 3. Input Overview
+##  3. Input Overview
 - Sample sentences for Task 1–3  
 - Six long-form documents inside `corpus/`  
 
 ---
 
-## 📤 4. Output Overview
+## 4. Output Overview
 - Embedding matrix (N × 384)  
 - `embeddings.npy`  
 - `sentences.json`  
@@ -94,7 +94,7 @@ python evaluation.py
 
 ---
 
-## 📦 5. Submission ZIP Contents
+##  5. Submission ZIP Contents
 
 ```
 test_embed.py
